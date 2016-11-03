@@ -10,7 +10,7 @@ var izioziBook= {
 	"boards": [{
 		"cols": 2,
 		"rows": 2,
-		"button": [{
+		"tiles": [{
 			"isMatrioska": "false",
 			"imagePath": "arnie.jpg",
 			"sentence": ""
