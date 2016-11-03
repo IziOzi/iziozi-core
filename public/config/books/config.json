@@ -1,0 +1,144 @@
+{
+  "board": {
+    "level": [
+      {
+        "cols": 3,
+        "buttons": [
+          {
+            "audioFile": "",
+            "imageFile": "",
+            "intentName": "",
+            "intentPackageName": "",
+            "isHighlighted": false,
+            "isMatrioska": false,
+            "level": {
+              "level": [
+                {
+                  "cols": 3,
+                  "buttons": [],
+                  "rows": 2
+                }
+              ]
+            },
+            "sentence": "",
+            "showBorder": false,
+            "title": "",
+            "url": "",
+            "videoFile": ""
+          },
+          {
+            "audioFile": "1459587601573.mp4",
+            "imageFile": "2_2517.png",
+            "intentName": "",
+            "intentPackageName": "",
+            "isHighlighted": false,
+            "isMatrioska": false,
+            "level": {
+              "level": [
+                {
+                  "cols": 3,
+                  "buttons": [],
+                  "rows": 2
+                }
+              ]
+            },
+            "sentence": "",
+            "showBorder": false,
+            "title": "Cane",
+            "url": "http://www.iziozi.org/resources/pictograms/2/2517.png",
+            "videoFile": ""
+          },
+          {
+            "audioFile": "",
+            "imageFile": "",
+            "intentName": "",
+            "intentPackageName": "",
+            "isHighlighted": false,
+            "isMatrioska": false,
+            "level": {
+              "level": [
+                {
+                  "cols": 3,
+                  "buttons": [],
+                  "rows": 2
+                }
+              ]
+            },
+            "sentence": "",
+            "showBorder": false,
+            "title": "",
+            "url": "",
+            "videoFile": ""
+          },
+          {
+            "audioFile": "",
+            "imageFile": "",
+            "intentName": "",
+            "intentPackageName": "",
+            "isHighlighted": false,
+            "isMatrioska": false,
+            "level": {
+              "level": [
+                {
+                  "cols": 3,
+                  "buttons": [],
+                  "rows": 2
+                }
+              ]
+            },
+            "sentence": "",
+            "showBorder": false,
+            "title": "",
+            "url": "",
+            "videoFile": ""
+          },
+          {
+            "audioFile": "",
+            "imageFile": "2_2517.png",
+            "intentName": "",
+            "intentPackageName": "",
+            "isHighlighted": false,
+            "isMatrioska": false,
+            "level": {
+              "level": [
+                {
+                  "cols": 3,
+                  "buttons": [],
+                  "rows": 2
+                }
+              ]
+            },
+            "sentence": "",
+            "showBorder": false,
+            "title": "Cane",
+            "url": "http://www.iziozi.org/resources/pictograms/2/2517.png",
+            "videoFile": ""
+          },
+          {
+            "audioFile": "/storage/emulated/0/iziozi/recordings/1455380215059.mp4",
+            "imageFile": "5_5896.png",
+            "intentName": "",
+            "intentPackageName": "",
+            "isHighlighted": false,
+            "isMatrioska": false,
+            "level": {
+              "level": [
+                {
+                  "cols": 3,
+                  "buttons": [],
+                  "rows": 2
+                }
+              ]
+            },
+            "sentence": "",
+            "showBorder": false,
+            "title": "Ciao",
+            "url": "http://www.iziozi.org/resources/pictograms/5/5896.png",
+            "videoFile": ""
+          }
+        ],
+        "rows": 2
+      }
+    ]
+  }
+}
